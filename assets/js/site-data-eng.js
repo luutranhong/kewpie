@@ -83,8 +83,8 @@ window.TRIP_PAGE_DATA = {
 						title: "Room Amenities",
 						type: "list",
 						items: [
-							"Please do not smoke inside rooms or indoor areas.",
-							'Strong-smelling food such as durian, seafood, shrimp paste, etc. is strictly prohibited in rooms. <i>A VND 5,000,000 cleaning fee will be applied for deep cleaning afterward.</i>',
+							"<b style='color: red'>Please do not smoke inside rooms or indoor areas.</b>",
+							'<b style="color: red">Strong-smelling food such as durian, seafood, shrimp paste, etc. is strictly prohibited in rooms. <i>A VND 5,000,000 cleaning fee will be applied for deep cleaning afterward.</i></b>',
 							"Please contact Reception by dialing 0 from the in-room phone or calling 02522222202. Guests may also download the Centara Mirage Resort Mui Ne app, register, and scan the QR code in the room for convenient information lookup during the stay.",
 							'Alternatively, contact the resort via Zalo at the provided phone number for convenient buggy service requests: 0857485485.',
 							'<b style="color: red">(Note: Guests will be required to compensate for any lost or damaged equipment.)</b>',

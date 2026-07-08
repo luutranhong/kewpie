@@ -84,8 +84,8 @@ window.TRIP_PAGE_DATA = {
 						title: "Tiện ích trong phòng",
 						type: "list",
 						items: [
-							"Vui lòng không hút thuốc trong phòng và các không gian trong nhà.",
-							'Nghiêm cấm mang các thức ăn nặng mùi (như sầu riêng, hải sản, mắm, ... ) vào phòng. <i>Phí phạt được áp dụng là 5,000,000 VND cho công tác làm sạch sâu sau đó.</i>',
+							"<b style='color: red'>Vui lòng không hút thuốc trong phòng và các không gian trong nhà.</b>",
+							'<b style="color: red">Nghiêm cấm mang các thức ăn nặng mùi (như sầu riêng, hải sản, mắm, ... ) vào phòng. <i>Phí phạt được áp dụng là 5,000,000 VND cho công tác làm sạch sâu sau đó.</i></b>',
 							"Vui lòng liên hệ Lễ tân qua phím 0 trên điện thoại bàn tại mỗi phòng hoặc số hotline 02522222202. Ngoài ra, khách có thể tải ứng dụng Centara Mirage Resort Mũi Né đăng ký và sau đó quét mã QR đặt ở trong phòng để tiện cho quá trình tra cứu thông tin trong thời gian lưu trú.",
 							'Hoặc liên hệ qua zalo của resort theo số điện thoại đính kèm để thuận tiện trong việc đặt xe điện 0857485485.',
 							'<b style="color: red"><i>(Lưu ý: Bất kì mất mát hoặc hư hỏng thiết bị do khách hàng sẽ được yêu cầu bồi thường).</b></i>',
