@@ -73,7 +73,7 @@ window.TRIP_PAGE_DATA = {
 							alt: "Facilities at Centara Mirage Resort Mui Ne",
 						},
 						items: [
-							"01 free breakfast buffet at <b>Mundo Restaurant (06:00 - 10:30)</b>. Please bring your room key for check-in.",
+							"01 free breakfast buffet at <b>Mundo Restaurant (06:00 - 10:30)</b>. <b style='color: red'>Please bring your room key for check-in.</b>",
 							'Free Wi-Fi without password. Please select the Wi-Fi network named <b>"Centara Mirage Resort"</b>.',
 							"Complimentary in-room setup: 02 bottles of water per day, tea, coffee sachets, and personal hygiene amenities.",
 						],
@@ -84,9 +84,9 @@ window.TRIP_PAGE_DATA = {
 						type: "list",
 						items: [
 							"Please do not smoke inside rooms or indoor areas.",
-							"Complimentary daily facilities: Fantasia Pool Complex/Lazy River (08:00 - 18:00), Infinity Pool (06:00 - 20:00), Fitness Center (24/7, room key required), Amigo Kids Club (08:00 - 21:00), La Aventura outdoor playground (09:00 - 18:00), Hola outdoor playground (07:00 - 21:00), Ezone entertainment center with paid games (08:00 - 22:00), and Faro Observation Tower (09:00 - 22:00).",
 							'Strong-smelling food such as durian, seafood, shrimp paste, etc. is strictly prohibited in rooms. <i>A VND 5,000,000 cleaning fee will be applied for deep cleaning afterward.</i>',
 							"Please contact Reception by dialing 0 from the in-room phone or calling 02522222202. Guests may also download the Centara Mirage Resort Mui Ne app, register, and scan the QR code in the room for convenient information lookup during the stay.",
+							'Alternatively, contact the resort via Zalo at the provided phone number for convenient buggy service requests: 0857485485.',
 							'<b style="color: red">(Note: Guests will be required to compensate for any lost or damaged equipment.)</b>',
 						],
 					},

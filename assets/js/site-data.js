@@ -74,7 +74,7 @@ window.TRIP_PAGE_DATA = {
 							alt: "Trang thiết bị tại Centara Mirage Resort Mũi Né",
 						},
 						items: [
-							"01 bữa ăn sáng buffet tại <b>nhà hàng Mundo (06h00 - 10h30)</b>, vui lòng mang theo thẻ phòng để thuận tiện cho việc check in.",
+							"01 bữa ăn sáng buffet tại <b>nhà hàng Mundo (06h00 - 10h30)</b>, <b style='color: red'>vui lòng mang theo thẻ phòng để thuận tiện cho việc check in.</b>",
 							'Miễn phí wifi và không yêu cầu mật khẩu, <b>vui lòng chọn tên wifi "Centara Mirage Resort"</b>.',
 							"Miễn phí trong phòng: 02 chai nước suối/ ngày, trà, cà phê gói, bộ vệ sinh cá nhân.",
 						],
@@ -85,9 +85,9 @@ window.TRIP_PAGE_DATA = {
 						type: "list",
 						items: [
 							"Vui lòng không hút thuốc trong phòng và các không gian trong nhà.",
-							"Các hoạt động tiện ích miễn phí mỗi ngày: Tổ hợp Hồ bơi Fantasia/Dòng sông lười (08h00-18h00), Hồ vô cực (06h00 - 20h00), phòng tập thể dục (24/7, sử dụng thẻ phòng để ra vào), khu vui chơi trẻ em Amigo Kids club (08h00 - 21h00), sân chơi ngoài trời La Aventura (09h00 - 18h00), Sân chơi ngoài trời Hola (07h00 - 21h00), Trung tâm giải trí điện tử Ezone theo hình thức chơi games có phí (08h00 - 22h00), Tháp quan sát Faro (09h00 - 22h00).",
 							'Nghiêm cấm mang các thức ăn nặng mùi (như sầu riêng, hải sản, mắm, ... ) vào phòng. <i>Phí phạt được áp dụng là 5,000,000 VND cho công tác làm sạch sâu sau đó.</i>',
 							"Vui lòng liên hệ Lễ tân qua phím 0 trên điện thoại bàn tại mỗi phòng hoặc số hotline 02522222202. Ngoài ra, khách có thể tải ứng dụng Centara Mirage Resort Mũi Né đăng ký và sau đó quét mã QR đặt ở trong phòng để tiện cho quá trình tra cứu thông tin trong thời gian lưu trú.",
+							'Hoặc liên hệ qua zalo của resort theo số điện thoại đính kèm để thuận tiện trong việc đặt xe điện 0857485485.',
 							'<b style="color: red"><i>(Lưu ý: Bất kì mất mát hoặc hư hỏng thiết bị do khách hàng sẽ được yêu cầu bồi thường).</b></i>',
 						],
 					},
